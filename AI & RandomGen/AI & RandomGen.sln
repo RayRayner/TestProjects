@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2D71054D-F488-C37F-E141-8E0F32C2DC74}") = "AI & RandomGen", "Assembly-CSharp.csproj", "{F79D7191-7DC9-0F95-7826-BD9BFD6D3213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79D7191-7DC9-0F95-7826-BD9BFD6D3213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79D7191-7DC9-0F95-7826-BD9BFD6D3213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79D7191-7DC9-0F95-7826-BD9BFD6D3213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79D7191-7DC9-0F95-7826-BD9BFD6D3213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
